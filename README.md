@@ -28,9 +28,36 @@ To get a local copy up and running, follow these steps:
 ### Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org/) and [npm](https://npmjs.com/) installed.
+```markdown
+## Installation
 
-### Installation
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and [npm](https://npmjs.com/) installed.
+
+### Steps to Install
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ultimate-gym-training-app.git
+   ```
+
+2. Navigate into the project directory:
+   ```bash
+   cd ultimate-gym-training-app
+   ```
+
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Run the app:
+   ```bash
+   npm start
+   ```
+
+The app will open in your default browser, typically at `http://localhost:3000`.
+```
