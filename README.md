@@ -28,7 +28,7 @@ To get a local copy up and running, follow these steps:
 ### Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org/) and [npm](https://npmjs.com/) installed.
-```markdown
+
 ## Installation
 
 To get a local copy up and running, follow these steps:
